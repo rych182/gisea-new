@@ -390,7 +390,7 @@ div#preloader {
 .nav-menu a:hover,
 .nav-menu .active>a,
 .nav-menu li:hover>a {
-    color: #3ec1d5;
+    color: #bf942c;
     text-decoration: none;
 }
 
@@ -529,7 +529,7 @@ div#preloader {
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-    color: #3ec1d5;
+    color: #bf942c;
     text-decoration: none;
 }
 
@@ -2900,7 +2900,7 @@ footer .copyright {
 --------------------------------------------------------------*/
 
 .cta {
-    background: #3fbbc0;
+    background: #161e3d;
     color: #fff;
     background-size: cover;
     padding: 60px 0;
@@ -2909,6 +2909,11 @@ footer .copyright {
 .cta h3 {
     font-size: 28px;
     font-weight: 700;
+    color: white;
+}
+
+.cta p {
+    color: white;
 }
 
 
