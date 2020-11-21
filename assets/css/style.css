@@ -696,7 +696,7 @@ div#preloader {
 .nivo-controlNav a:hover,
 .nivo-controlNav a.active {
     background: #fff none repeat scroll 0 0;
-    border-color: #3EC1D5;
+    border-color: #bf942c;
     -moz-transform: rotate(180deg);
     -webkit-transform: rotate(180deg);
     -o-transform: rotate(180deg);
@@ -1359,7 +1359,7 @@ preview-2
 
 .project-menu li a {
     background: #fff none repeat scroll 0 0;
-    border: 1px solid #444;
+    border: 1px solid #161e3d;
     border-radius: 20px;
     color: #444;
     cursor: pointer;
@@ -1374,8 +1374,8 @@ preview-2
 
 .project-menu li a.active,
 .project-menu li a:hover {
-    border-color: #3EC1D5;
-    background: #3EC1D5;
+    border-color: #161e3d;
+    background: #161e3d;
     color: #fff;
     text-decoration: none;
 }
@@ -1419,7 +1419,7 @@ preview-2
 }
 
 .awesome-img>a::after {
-    background: rgba(0, 0, 0, 0.7) none repeat scroll 0 0;
+    background: #161e3d none repeat scroll 0 0;
     content: "";
     height: 100%;
     left: 0;
@@ -2587,7 +2587,7 @@ span.email-notes {
 }
 
 .footer-area-bottom {
-    background: black none repeat scroll 0 0;
+    background: #161e3d none repeat scroll 0 0;
     padding: 15px 0;
 }
 
@@ -2597,12 +2597,12 @@ span.email-notes {
 }
 
 .copyright-text a {
-    color: #444;
+    color: white;
 }
 
 .copyright>p {
     margin-bottom: 0;
-    color: #444;
+    color: white;
 }
 
 .copyright a,
@@ -2946,7 +2946,7 @@ footer .copyright {
 }
 
 .gallery .owl-dot.active {
-    background-color: #3fbbc0 !important;
+    background-color: #bf942c !important;
 }
 
 .gallery .gallery-carousel .owl-stage-outer {
@@ -2954,7 +2954,7 @@ footer .copyright {
 }
 
 .gallery .gallery-carousel .center {
-    border: 6px solid #3fbbc0;
+    border: 6px solid #161e3d;
     margin: -10px;
     box-sizing: content-box;
     padding: 4px;
@@ -3027,7 +3027,7 @@ footer .copyright {
 }
 
 .clients .owl-dot.active {
-    background-color: #e03a3c !important;
+    background-color: #161e3d !important;
 }
 
 
@@ -3043,7 +3043,7 @@ footer .copyright {
 .team .member {
     text-align: center;
     margin-bottom: 20px;
-    background: #343a40;
+    background: #161e3d;
     position: relative;
     overflow: hidden;
 }
@@ -3107,7 +3107,7 @@ footer .copyright {
 }
 
 .team .member:hover .member-info {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.8) 20%, rgba(0, 212, 255, 0) 100%);
+    background: linear-gradient(0deg, rgba(22, 30, 61) 0%, rgba(22, 30, 61) 20%, rgba(0, 212, 255, 0) 100%);
     opacity: 1;
     transition: 0.4s;
 }
