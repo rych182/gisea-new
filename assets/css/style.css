@@ -57,6 +57,7 @@ img {
 p {
     margin: 0 0 15px;
     color: #444;
+    font-family: 'Spartan', sans-serif;
 }
 
 h1,
@@ -65,7 +66,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Spartan', sans-serif;
     margin: 0 0 15px;
     color: #444;
     font-weight: 500;
@@ -104,6 +105,7 @@ h6 {
 a {
     transition: all 0.3s ease 0s;
     text-decoration: none;
+    font-family: 'Spartan', sans-serif;
 }
 
 a:hover {
@@ -119,7 +121,7 @@ a:hover {
 body {
     background: #fff none repeat scroll 0 0;
     color: #444;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Spartan', sans-serif;
     font-size: 14px;
     text-align: left;
     overflow-x: hidden;
